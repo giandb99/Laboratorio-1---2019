@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1553796321 source:d:\gian1b\funciones2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1553795549 d:\gian1b\funciones2\biblioteca.h
+	"biblioteca.c"
+
+1553795681 d:\gian1b\funciones2\biblioteca.c
+
