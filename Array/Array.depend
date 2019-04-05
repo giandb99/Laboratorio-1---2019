@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1554481033 source:d:\gian1b\array\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblio.h"
+
+1554480755 source:d:\gian1b\array\biblio.c
+	<stdio.h>
+	<stdlib.h>
+	"biblio.h"
+
+1554477560 d:\gian1b\array\biblio.h
+	<stdio.h>
+	<stdlib.h>
+
