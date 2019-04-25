@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1556215690 source:d:\gian1b\array de estructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Producto.h"
+
+1556216099 d:\gian1b\array de estructuras\producto.h
+
