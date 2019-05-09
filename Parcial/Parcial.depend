@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1557411094 source:d:\lombardo g\laboratorio-1---2019-master\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+
+1557410950 d:\lombardo g\laboratorio-1---2019-master\parcial\peliculas.h
+
+1557409991 source:d:\lombardo g\laboratorio-1---2019-master\parcial\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+
