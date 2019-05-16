@@ -13,3 +13,24 @@
 	<string.h>
 	"peliculas.h"
 
+1557970609 source:c:\utn\programacion y laboratorio\clases progra\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"peliculas.h"
+	"actores.h"
+
+1557968144 c:\utn\programacion y laboratorio\clases progra\parcial\peliculas.h
+
+1557967451 source:c:\utn\programacion y laboratorio\clases progra\parcial\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"peliculas.h"
+
+1557970064 c:\utn\programacion y laboratorio\clases progra\parcial\actores.h
+
+1557949583 c:\utn\programacion y laboratorio\clases progra\parcial\validaciones.h
+

@@ -31,6 +31,13 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="actores.c">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="actores.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -38,6 +45,13 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="peliculas.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="validaciones.c">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="validaciones.h">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Extensions>
