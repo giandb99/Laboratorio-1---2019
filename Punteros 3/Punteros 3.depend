@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1558711434 source:d:\lombardo\punteros 3\main.c
-	<stdio.h>
-	<stdlib.h>
-	"empleado.h"
-
-1558711843 d:\lombardo\punteros 3\empleado.h
-
