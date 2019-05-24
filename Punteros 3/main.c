@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "empleado.h"
+#include <string.h>
+#include "empleados.h"
 #define T 5
 
 int main()
@@ -74,4 +75,3 @@ int main()
             }
         }
     }*/
-

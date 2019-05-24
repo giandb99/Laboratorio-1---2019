@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1558718642 source:c:\utn\programacion y laboratorio\clases progra\punteros3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleados.h"
+
+1558718642 c:\utn\programacion y laboratorio\clases progra\punteros3\empleados.h
+
+1558718651 source:c:\utn\programacion y laboratorio\clases progra\punteros3\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleados.h"
+
+1558718651 source:c:\utn\programacion y laboratorio\clases progra\punteros 3\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleados.h"
+
+1558718642 c:\utn\programacion y laboratorio\clases progra\punteros 3\empleados.h
+
+1558718642 source:c:\utn\programacion y laboratorio\clases progra\punteros 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleados.h"
+
